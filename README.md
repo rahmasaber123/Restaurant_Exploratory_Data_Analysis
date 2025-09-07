@@ -23,7 +23,7 @@ The dataset contains the following columns:
 
 ---
 
-## 🛠️ Steps Performed
+##  Steps Performed
 1. **Data Cleaning & Preprocessing**
    - Handled missing values  
    - Converted date column to proper datetime format  
@@ -45,7 +45,7 @@ The dataset contains the following columns:
 
 ---
 
-## 📊 Insights
+##  Insights
 - Identified the **top-selling products** and cities contributing the most revenue  
 - Analyzed **revenue trends** over time to detect growth/decline patterns  
 - Observed customer preferences in **payment methods** and **purchase types**  
@@ -57,17 +57,17 @@ The dataset contains the following columns:
 
 Here are some key visualizations from the analysis:
 
-### 1. Revenue Trend Over Time
-![Revenue Trend](images/revenue_trend.png)
+### 1. Features Correlations
+![Revenue Trend](https://github.com/rahmasaber123/Restaurant_Exploratory_Data_Analysis/blob/main/Feature_Correlation.png?raw=true )
 
 ### 2. Distribution of Payment Methods
-![Payment Methods](images/payment_methods.png)
+![Payment Methods](https://github.com/rahmasaber123/Restaurant_Exploratory_Data_Analysis/blob/main/Payment_Distribution.png?raw=true)
 
-### 3. Top 10 Products by Revenue
-![Top Products](images/top_products.png)
+### 3. Top  Products by Quantity
+![Top Products](https://github.com/rahmasaber123/Restaurant_Exploratory_Data_Analysis/blob/main/Product_Per_Quantity.png?raw=true )
 
 ### 4. Revenue by City
-![Revenue by City](images/revenue_city.png)
+![Revenue by City](https://github.com/rahmasaber123/Restaurant_Exploratory_Data_Analysis/blob/main/Top_Selling_cities.png?raw=true )
 
 ---
 
@@ -82,4 +82,6 @@ Here are some key visualizations from the analysis:
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/restaurant-exploratory-data-analysis.git
+   git clone https://github.com/rahmasaber123/Restaurant_Exploratory_Data_Analysis
+## AUTHOR
+ RAHMA SABER ABBAS
